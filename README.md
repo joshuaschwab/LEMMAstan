@@ -1,2 +1,5 @@
 # LEMMAstan
-temporary location for LEMMA binary
+LEMMA binaries
+
+source: https://github.com/LocalEpi/LEMMA
+
